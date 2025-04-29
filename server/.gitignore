@@ -5,14 +5,14 @@ npm-shrinkwrap.json
 *.log
 *.gz
 
-.env
-
 # Coveralls
 .nyc_output
 coverage
 
 # Benchmarking
 benchmarks/graphs
+
+.env
 
 # ignore additional files using core.excludesFile
 # https://git-scm.com/docs/gitignore
